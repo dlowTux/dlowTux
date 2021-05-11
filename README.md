@@ -13,7 +13,7 @@ My name is DlowTux, I'm a programer
 * Critical thinking, decision-making and problem solving skills
 * Some Python coding
 * Java develoment.
-* MYSQL and MariaDM knowledge
+* MYSQL and MariaDB knowledge
 * Basic knowledge of Angular and react 
 
 
