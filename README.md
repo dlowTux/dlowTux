@@ -17,7 +17,7 @@
 
 
 I love linux, but I am interested in Arch Linux, I'm a
-web developer, I love the linux terminal, because it, I develop cli applications for linux
+web developer, I love the linux terminal, because I develop cli applications for linux
 
 ## Skills
 
