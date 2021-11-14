@@ -2,7 +2,7 @@
 </h3>
 <p align="center">
 
-<a href="#"><img src="https://i.postimg.cc/htmK9qQb/banner.png" height="100%" width="100%" /></a>
+<a href="#"><img src="https://github.com/dlowTux/dlowTux/blob/main/computers.gif" height="100%" width="100%" /></a>
 </p>
 <h3 align="center">A passionate backend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlowtux&label=Profile%20views&color=0e75b6&style=flat" alt="dlowtux" /> </p>
