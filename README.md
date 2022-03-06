@@ -6,14 +6,7 @@
 </p>
 <h3 align="center">A passionate backend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlowtux&label=Profile%20views&color=0e75b6&style=flat" alt="dlowtux" /> </p>
-
-- 🔭 I’m currently working on [DTOS](https://gitlab.com/dwt1/dtos)
-
-- 🌱 I’m currently learning **Typescript**
-
-- 👯 I’m looking to collaborate on [Pycritty](https://github.com/antoniosarosi/pycritty)
-
-- 💬 Ask me about **Cars🚘, Linux🐧, Music🎸**
+💬 Ask me about  Linux🐧, Music🎸
 
 
 I love linux, but I am interested in Arch Linux, I'm a
@@ -34,7 +27,6 @@ web developer, I love the linux terminal, because I develop cli applications for
 [![DlowTux's stats](https://github-readme-stats.vercel.app/api?username=dlowTux&show_icons=true&theme=radical)](https://github.com/dlowTux/github-readme-stats)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dlowtux&show_icons=true&locale=en&layout=compact&theme=radical" alt="dlowtux" /></p>
 
 
 
